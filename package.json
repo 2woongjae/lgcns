@@ -1,0 +1,24 @@
+{
+  "name": "lgcns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question1.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xid-mark/lgcns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xid-mark/lgcns/issues"
+  },
+  "homepage": "https://github.com/xid-mark/lgcns#readme",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
