@@ -2,12 +2,22 @@
 
 ## 준비하기
 
+- git 을 이용해 Repository 를 clone 합니다.
+
+```
+git clone https://github.com/xid-mark/lgcns.git
+```
+
+- 해당 프로젝트 폴더로 이동합니다.
+
+```
+cd lgcns
+```
+
 - Node.js 버전은 14.15.1 (LTS) 입니다.
 - nvm 을 사용하는 경우 아래와 같이 입력해주세요.
 
 ```
-cd lgcns
-
 nvm install 14.15.1
 
 nvm use
@@ -29,7 +39,7 @@ npx tsc --version
 ## 문제 풀기
 
 - 5개의 문제가 준비되어 있습니다.
-- 각 문제는 한 파일에 작성하여 제출하시면 됩니다.
+- 각 문제는 각 파일에 작성하여 제출하시면 됩니다.
 - 문제는 다음과 같은 경로에 있습니다.
 
 ```
@@ -40,7 +50,7 @@ lgcns/src/4_decorators.ts
 lgcns/src/5_generic_conditional.ts
 ```
 
-- 파일 안의 주어진 조건에 따라 작성하세요.
+- 파일 안에서 주어진 조건에 따라 작성하세요.
 - 로직을 완성하고 컴파일을 문제가 없을 때, 제출하세요.
 - 컴파일 명령어는 다음과 같습니다.
 
@@ -51,8 +61,7 @@ npm run build:watch
 
 ## 제출
 
-- 5 문제 각각 제출이 가능합니다.
-- 5 문제를 모두 압축하여 한꺼번에 제출이 가능합니다.
+- 5 문제 각각 제출도 가능하고, 5문제를 모두 한꺼번에 압축하여 제출도 가능합니다! (.zip 형식으로 제출)
 - 압축은 제출할 문제 파일들만 모아서 압축하여 제출해주세요.
 
 ```
@@ -68,3 +77,7 @@ ex) 모두 제출할 경우, 아래 5개의 파일을 압축해서 압축한 파
 - lgcns/src/4_decorators.ts
 - lgcns/src/5_generic_conditional.ts
 ```
+
+## 제출 URL
+
+- https://moaform.com/q/cnstypescriptcode
