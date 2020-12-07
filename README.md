@@ -36,8 +36,8 @@ npx tsc --version
 lgcns/src/1_type_annotations.ts
 lgcns/src/2_interface_class.ts
 lgcns/src/3_type_guards.ts
-lgcns/src/4_generic_conditional.ts
-lgcns/src/5_.ts
+lgcns/src/4_decorators.ts
+lgcns/src/5_generic_conditional.ts
 ```
 
 - 파일 안의 주어진 조건에 따라 작성하세요.
@@ -65,6 +65,6 @@ ex) 모두 제출할 경우, 아래 5개의 파일을 압축해서 압축한 파
 - lgcns/src/1_type_annotations.ts
 - lgcns/src/2_interface_class.ts
 - lgcns/src/3_type_guards.ts
-- lgcns/src/4_generic_conditional.ts
-- lgcns/src/5_.ts
+- lgcns/src/4_decorators.ts
+- lgcns/src/5_generic_conditional.ts
 ```
